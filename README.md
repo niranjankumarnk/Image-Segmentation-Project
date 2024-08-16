@@ -9,7 +9,25 @@ https://yuad-my.sharepoint.com/:f:/g/personal/youshan_zhang_yu_edu/EqBMaom-aihLp
 + Validation: 200 images and 200 masks.
 + Test: 300 images and 300 masks
 
-Our aim to get the IoU Score more than 60%,by our custom Image segmentation model
+**Our aim to get the IoU Score more than 60%,by our custom Image segmentation model**
 
 ![image](https://github.com/user-attachments/assets/a5f4a69a-d931-4bd2-aaa0-49550708d984)
+
+
+- @inproceedings{zhang2023birdsoundsdenoising,
+title={Birdsoundsdenoising: Deep visual audio denoising for
+bird sounds}, author={Zhang, Youshan and Li, Jialu},
+booktitle={Proceedings of the IEEE/CVF Winter Conference on
+Applications of Computer Vision}, pages={2248--2257},
+year={2023} }
+
+- @article{kumar2024vision, title={Vision Transformer
+Segmentation for Visual Bird Sound Denoising}, author={Kumar,
+Sahil and Li, Jialu and Zhang, Youshan}, journal={arXiv preprint
+arXiv:2406.09167}, year={2024} }
+
+**My results**
+
+IoU - 
+
 
