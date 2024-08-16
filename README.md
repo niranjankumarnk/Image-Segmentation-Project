@@ -28,6 +28,9 @@ arXiv:2406.09167}, year={2024} }
 
 **My results**
 
-IoU - 
+IoU - 62.25
+
+![image](https://github.com/user-attachments/assets/bbbe1797-e270-40c1-9b86-8bf6f5818b2e)
+
 
 
