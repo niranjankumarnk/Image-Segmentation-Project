@@ -1,5 +1,7 @@
 # Image-Segmentation-Project
 
+###   **Checkout full report** [Click Link](https://www.researchgate.net/publication/382944211_Custom_Image_Segmentation_Model_for_Visual_Bird_Sound_Denoising)
+
 Built an Custom Image Segmentation model for the below dataset which is Bird Sound denoising Images 
 
 ## Dataset
